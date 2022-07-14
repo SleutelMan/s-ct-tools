@@ -1,3 +1,5 @@
+For now just a clean fork of the original below. Will update this when there are actual significant changes
+
 # ct-tools
 
 Some Rust code for submitting a cert to all of Chrome's trusted CT logs and
